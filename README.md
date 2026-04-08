@@ -1,4 +1,4 @@
-# Sales Calculatorv2
+# Sales Calculatorv1
 
 ## Description
 
